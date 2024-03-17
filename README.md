@@ -24,6 +24,8 @@ A Spell resource is a JSON object in the following form:
 }
 ```
 
+Created in 45 minutes, mostly googling
+
 ## Dependencies
 - SQLite 3
 - SQLC 
