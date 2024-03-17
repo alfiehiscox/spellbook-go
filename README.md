@@ -17,7 +17,7 @@ A Spell resource is a JSON object in the following form:
 ```json
 {
     "id": 0,
-    "name: "spell-name",
+    "name": "spell-name",
     "damage": 0,
     "created_at": "2024-00-00T00:00:00.000000Z",
     "updated_at": "2024-00-00T00:00:00.000000Z"
